@@ -1,0 +1,1 @@
+“This prison was recently closed due to some unexplainable deaths. We have recently received information about a possible Haunting at this location. You'll be sent to gather as much evidence as possible so a ghost removal team can deal with it afterwards. More info when you arrive.”
