@@ -6,9 +6,5 @@ The flashlight can also be mounted as a shoulder flashlight by pressing "T" whil
 
 During a Hunt, the Flashlight will flicker on and off for the duration of the Hunt. As such, it is critical to have one for having a first warning of an active Hunt.
 
-# Comparison
-A comparison of the two flashlights. The strong flashlight is brighter and larger than the normal flashlight.
-The strong flashlight is far brighter and larger than the normal flashlight.
-
 # Additional Tips
 Extra flashlights can be dropped within dark areas of the map to provide uninterrupted illumination. This is especially helpful if a Ghost tampers with the lights and/or Fuse Box frequently.
