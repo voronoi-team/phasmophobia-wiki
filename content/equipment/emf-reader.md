@@ -14,12 +14,15 @@ As with other interact-able hand-held items, players can switch another player's
 
 # EMF Levels
 
-| EMF Level |	LED Colour | Ghost Activity                    |
-| 1                | Green           | None, default state            |
-| 2                | Green           | Interacting with an object  |
-| 3                | Yellow          | Throwing an object            |
-| 4                | Orange         | Manifestation                     |
-| 5                |	Red             | Evidence (25 % chance)    |
+```
+# : Colour : Ghost Activity
+---------------------------
+1 : Green  : None, default state
+2 : Green  : Interacting with an object
+3 : Yellow : Throwing an object
+4 : Orange : Manifestation
+5 : Red    : Evidence (25 % chance)
+```
 
 Each EMF Level can be photographed separately in order to receive extra money at the end of a mission.
 
